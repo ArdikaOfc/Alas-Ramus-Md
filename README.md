@@ -1,4 +1,4 @@
-# 🤖 Alas Ramus MD V3.0.0
+# 🤖 Alas Ramus MD v3.0.0
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 Dibuat dengan ❤️ oleh **[ArdikaOfc](https://github.com/ArdikaOfc)**
 
-[![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green?logo=node.js)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-v20%2B-green?logo=node.js)](https://nodejs.org/)
 [![Baileys](https://img.shields.io/badge/Library-Baileys-blue)](https://github.com/WhiskeySockets/Baileys)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -94,7 +94,8 @@ npm start
 
 ## 📂 Struktur Folder
 
-```Alas Ramus Md
+```
+Alas-Ramus-Md
 ├── config.js          
 ├── index.js           
 ├── media
