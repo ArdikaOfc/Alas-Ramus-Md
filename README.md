@@ -1,6 +1,10 @@
+<div align="center">
+
+<img src="https://github.com/ArdikaOfc.png" width="120" height="120" style="border-radius: 50%;" alt="ArdikaOfc Profile">
+
+
 # 🤖 Alas Ramus MD v3.0.0
 
-<div align="center">
 
 **Bot WhatsApp Multi-Device yang tangguh, kaya fitur, dan mudah digunakan.**
 
